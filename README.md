@@ -1,4 +1,4 @@
-# BD_EBT
+# BD_Escala_Brasil_Transparência
 
 O objetivo desse projeto é a limpeza e tratamento dos dados da EBT (Escala Brasil Transparência) que é uma metodologia para medir a transparência pública em estados e municípios brasileiros.
 
